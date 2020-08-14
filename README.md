@@ -1,12 +1,10 @@
 ### Hi I'm Niveda 👋
 
-<!--
-**nivedabala/nivedabala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [![Twitter Badge](https://img.shields.io/badge/-@NivedaBala-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonathangin52)](https://twitter.com/nivedabala) [![Linkedin Badge](https://img.shields.io/badge/-nivedabala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivedabala/)](https://www.linkedin.com/in/nivedabala/)
 
 I'm a rising junior @ UWO.
 
+<--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
