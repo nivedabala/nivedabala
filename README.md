@@ -4,7 +4,7 @@
 
 I'm a rising junior @ UWO. I'm an aspiring SWE, and creative hobbyist (painting + photography). 
 
-- 🔭 Current side-project: fast fashion alternatives app
-- 🌱 Developing my ReactJS proficiency 
+- 🔭 Current project: Outdoor activity route creation web app
+- 🌱 Growing my iOS dev skills
 - ⚡ Fun fact: Taught myself how to use powertools this summer. 
 
